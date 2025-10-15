@@ -1,14 +1,10 @@
 <h1 align='center'>
-  Hi there 👋 I'm Rafi Akhdan Nizar 👨‍💻
+  Hi there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30"/>
+ I'm Rafi Akhdan Nizar 👨‍💻
 </h1>
 
 <p align="center">
   I love learning new things and building awesome projects! 🚀✨
-</p>
-
-<!-- Background Style GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30"/>
 </p>
 
 <!-- Anime! -->
@@ -22,26 +18,26 @@
   📞 Contact me <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUydWQzeGZtamVsNXltdTI4MWRnMXJkbWtlY2Z1Znp1NWJyZ3Vpdzc4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpOqvmCFdNMhF0pQb7/giphy.gif" width="30px" />
 </h3>
 <p align="center">
-  <a href="https://instagram.com/_rinnzz">
+  <a href="https://instagram.com/rafi_a_n">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://wa.me/0">
+  <a href="https://wa.me/085536666963">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100015526687857">
     <img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://t.me/sekhaa">
+  <a href="https://t.me/RafiAkhdan">
     <img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>
   </a> <br>
-  <a href="https://youtu.be/WgeItwiifYs">
-    <img src="https://img.shields.io/badge/YouTube-Rey Sekha-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <a href="https://youtu.be/Ranzreys">
+    <img src="https://img.shields.io/badge/YouTube-Ranzreys-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="https://github.com/inirey">
+  <a href="https://github.com/rafiakhdannizar">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
   </a>
   <a href="https://komarev.com/ghpvc/?username=inirey&color=blue&style=flat-square&label=Profile+View">
-    <img src="https://komarev.com/ghpvc/?username=inirey&color=blue&style=flat-square&label=Profile+View"/>
+    <img src="https://komarev.com/ghpvc/?username=rafiakhdannizar&color=blue&style=flat-square&label=Profile+View"/>
   </a>
 </p>
 
