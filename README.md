@@ -30,9 +30,7 @@
   <a href="https://github.com/ranreys">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
   </a>
-  <a href="https://komarev.com/ghpvc/?username=inirey&color=blue&style=flat-square&label=Profile+View">
     <img src="https://komarev.com/ghpvc/?username=ranreys&color=blue&style=flat-square&label=Profile+View"/>
-  </a>
 </p>
 
 
